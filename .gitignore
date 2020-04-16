@@ -140,3 +140,5 @@ Temporary Items
 .apdisk
 
 .idea/
+
+.gradle/
