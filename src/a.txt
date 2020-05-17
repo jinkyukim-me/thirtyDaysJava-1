@@ -1,0 +1,3 @@
+Every aspect of IntelliJ IDEA has been designed to maximize developer productivity.
+
+Together, intelligent coding assistance and ergonomic design make development not only productive but also enjoyable.
