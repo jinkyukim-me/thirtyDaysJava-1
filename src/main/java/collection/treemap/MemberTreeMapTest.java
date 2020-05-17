@@ -22,5 +22,7 @@ public class MemberTreeMapTest {
         manager.removeMember(200);
         manager.showAllMember();
 
+
+
     }
 }
